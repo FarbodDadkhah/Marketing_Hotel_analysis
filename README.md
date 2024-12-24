@@ -61,4 +61,3 @@ git clone https://github.com/NikolaiFarbod/Marketing_Hotel_analysis.git
 2.	Open main_analysis.ipynb in Jupyter Notebook.
 3.	Review the SQL queries in queries.sql for sql showcasing(not used for analysis purposes since pandas did it already) 
 
-![image](https://github.com/user-attachments/assets/3e685a2a-61d6-46d6-8cda-2bf0fd68e96d)
